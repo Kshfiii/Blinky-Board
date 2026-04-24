@@ -16,7 +16,7 @@ A Heart-shaped Blinky Board with 16 LEDs
 
 
 # PCB
+![image](https://stasis.hackclub-assets.com/images/1776992588337-ccfk1s.png)
 
-<img width="863" height="674" alt="image" src="https://github.com/user-attachments/assets/8439e794-a73a-48f9-bb9c-5e81eab36253" />
-<img width="1404" height="758" alt="Blinky board" src="https://github.com/user-attachments/assets/240d6e51-8266-4c59-b534-4233f1d0cf9b" />
+![image](https://stasis.hackclub-assets.com/images/1776992641194-ztkm9i.png)
 
